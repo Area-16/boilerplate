@@ -1,0 +1,19 @@
+{
+  "creditor": "", // project name
+  "wallet": "", // project sub folder
+  "ws": [{
+    "metodo_1": {
+      "Response": {}
+    },
+    "metodo_2": {
+      "Response": {}
+    },
+    "metodo_3": {
+      "Response": {}
+    },
+  }],
+  "common": {
+    "redis": {},
+    "cw": {},
+  }
+}
